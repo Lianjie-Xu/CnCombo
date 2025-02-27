@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: Jwalk
+Version: 1.0.0
+Summary: A tool to calculate SASDs between crosslinked residues 
+Author: Josh Bullock
+Author-email: j.bullock@cryst.bbk.ac.uk
+Requires: NumPy (>=1.6)
+Requires: Biopython (>= 1.5)

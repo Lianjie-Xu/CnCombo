@@ -1,0 +1,5 @@
+Index         Model         Atom1         Atom2         SASD         
+1             1sak_2bo3_C2_10_angle_85_36.pdb GLY-31-a-CA   ASN-1-A-CA    50.60957119273999
+2             1sak_2bo3_C2_10_angle_85_36.pdb GLY-31-a-CA   ASN-1-B-CA    52.0271845434651
+3             1sak_2bo3_C2_10_angle_85_36.pdb SER-79-A-CA   GLU-1-a-CA    54.251518308465315
+4             1sak_2bo3_C2_10_angle_85_36.pdb SER-79-B-CA   GLU-1-a-CA    71.40988280967326

@@ -1,0 +1,3 @@
+Index         Model         Atom1         Atom2         SASD         
+1             1sak_2bo3_C2_11_angle_60_31_crosslink_combined_semi.pdb SER-125-A-CA  GLU-1-A-CA    48.31642278386662
+2             1sak_2bo3_C2_11_angle_60_31_crosslink_combined_semi.pdb SER-125-A-CA  GLU-1-B-CA    44.174177871266096

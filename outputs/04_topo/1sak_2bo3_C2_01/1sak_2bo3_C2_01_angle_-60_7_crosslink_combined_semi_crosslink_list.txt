@@ -1,0 +1,3 @@
+Index         Model         Atom1         Atom2         SASD         
+1             1sak_2bo3_C2_01_angle_-60_7_crosslink_combined_semi.pdb GLY-122-A-CA  ASN-1-A-CA    56.04215751171284
+2             1sak_2bo3_C2_01_angle_-60_7_crosslink_combined_semi.pdb GLY-122-A-CA  ASN-1-B-CA    29.512777213062037

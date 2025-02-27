@@ -1,0 +1,4 @@
+Index         Model         Atom1         Atom2         SASD         
+1             test.pdb      ARG-33-A-CA   ALA-70-A-CA   24.8508627931
+2             test.pdb      LYS-21-A-CA   ARG-39-A-CA   40.9241179385
+3             test.pdb      GLN-56-A-CA   LEU-98-A-CA   18.1804504966
