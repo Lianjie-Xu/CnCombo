@@ -10,12 +10,15 @@ channels:
   - omnia
 dependencies:
   - biopython=1.80=py38h0a891b7_0
-  - prody=2.2.0=py38hfa26641_1
   - numpy=1.23.5=py38h7042d01_0
+  - prody=2.2.0=py38hfa26641_1
+  - pandas=1.5.2=py38h8f669ce_0
   - pip=22.3.1=pyhd8ed1ab_0
   - pymol=2.5.4=py38hffc77be_0
   - python=3.8.15=h257c98d_0_cpython
   - pyrosetta=2022.47+release.d2aee95=py38_0
+  - scipy=1.9.3=py38h8ce737c_2
+  - setuptools=65.5.1=pyhd8ed1ab_0
   - pip:
       - argparse==1.4.0
       - topoly==0.9.25
