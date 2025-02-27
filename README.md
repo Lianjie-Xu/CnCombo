@@ -2,7 +2,7 @@
 This is the code for protein topology design from the combination of Cn entangling motifs as described in the paper "*Computational Design and Cellular Synthesis of Two Protein Topological Isoforms: Solomon Link vs Three-Twist Knot*".
 
 # Installation
-To make a conda environment to run ProteinMPNN *CnCombo*:
+Make a conda environment to run *CnCombo* (PyRosetta license is required to fill in USERNAME:PASSWORD in environment.yml):
 ```shell
 git clone https://github.com/Lianjie-Xu/CnCombo.git     
 cd CnCombo    
