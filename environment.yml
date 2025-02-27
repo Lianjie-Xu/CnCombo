@@ -1,10 +1,10 @@
-name: SIM
+name: CnCombo
 channels:
   - https://conda.graylab.jhu.edu
   - bioconda
   - anaconda
   - schrodinger
-  - https://levinthal:paradox@conda.graylab.jhu.edu
+  - https://USERNAME:PASSWORD@conda.graylab.jhu.edu
   - salilab
   - conda-forge
   - omnia
@@ -407,4 +407,3 @@ dependencies:
       - xmltodict==0.13.0
       - zope-event==4.6
       - zope-interface==5.5.2
-prefix: /gpfs/share/home/1701110356/software/miniconda3/envs/SIM
