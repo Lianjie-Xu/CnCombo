@@ -36,7 +36,7 @@ Input flags for `CnCombo_run.py`:
 -----------------------------------------------------------------------------------------------------
 # Usage (taking X+K as an example)   
 ```shell
-python CnCombo_run.py -i1 ./motifs/1sak.pdb -symm1 C2 -i2 ./motifs/2bo3.pdb -symm2 C2 -s C2 -g 5.0 -c 5.0
+python CnCombo_run.py --input_pdb1 ./motifs/1sak.pdb --symm1 C2 --input_pdb2 ./motifs/2bo3.pdb --symm2 C2 --target_symm C2
 ```
 
 -----------------------------------------------------------------------------------------------------
