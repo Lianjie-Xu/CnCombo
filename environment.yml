@@ -9,16 +9,14 @@ channels:
   - conda-forge
   - omnia
 dependencies:
-  - biopython=1.80
-  - numpy=1.23.5
-  - prody=2.2.0
-  - pandas=1.5.2
-  - pip=22.3.1
+  - biopython
+  - numpy
+  - openssl
+  - prody
+  - pip
   - pymol
-  - python=3.8
-  - pyrosetta=2022.47
-  - scipy=1.9.3
-  - setuptools=65.5.1
+  - python>=3.9
+  - pyrosetta
   - pip:
-      - argparse==1.4.0
-      - topoly==0.9.25
+      - argparse
+      - topoly
